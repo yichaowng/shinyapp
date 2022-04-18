@@ -1,3 +1,3 @@
 # shinyapp
 
-test run shiny app
+test run shiny application
